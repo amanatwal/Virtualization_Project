@@ -12,8 +12,8 @@ def author_info():
     name="%120s" % "Amandeep Kaur"
     student_ID="%120s\n"%"N01261681"
     print(name)
-    print(student_ID)
-    #test Jenkins 2nd time 3rd time 4th time
+    print(student_ID)    
+    #test Jenkins at 11:53
 def add_student(student_info):   # Adding the student information and calculating the average of entered marks
     first_name=input("Enter First Name:\t")
     last_name=input("Enter Last Name:\t")
